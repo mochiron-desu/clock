@@ -1,0 +1,82 @@
+* {
+    font-family: "Consolas", sans-serif;
+}
+
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background: #211b23;
+}
+
+/* #container {
+    display: table;
+} */
+
+/* .table-row {
+    display: table-row;
+    width: max-content;
+    height: max-content;
+} */
+
+#content-container {
+    border: solid antiquewhite 20px;
+    width: 80%;
+    height: 20%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 5%;
+}
+
+#time-container {
+    position: absolute;
+    width: max-content;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#time-container span {
+    color: antiquewhite;
+    font-size: 120px;
+    letter-spacing: 0.2rem;
+}
+
+#button-container span {
+    color: antiquewhite;
+    font-size: 20px;
+    letter-spacing: 0.2rem;
+}
+
+#button-container button {
+    width: max-content;
+    padding: 10px;
+}
+
+#button-container #color1 {
+    border: antiquewhite 5px solid;
+    background-color: #211b23;
+    color: antiquewhite
+}
+
+#button-container #color2 {
+    border: #F1EDBA 5px solid;
+    background-color: #252D33;
+    color: antiquewhite
+}
+
+#button-container #color3 {
+    border: #17568A 5px solid;
+    background-color: #BCDBD2;
+    color: #17568A
+}
