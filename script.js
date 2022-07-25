@@ -54,3 +54,5 @@ document.querySelector("#color3").onclick = function () {
     ampn.style.color = "#17568A"
     document.querySelector("#button-container span").style.color = "#17568A"
 }
+
+//test
