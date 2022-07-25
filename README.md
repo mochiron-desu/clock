@@ -10,4 +10,4 @@ Yep thats it, its just a clock.... I mean you don't have to use it, I just wante
  - It also shows the current date with the day of the week in IN-es format.
 
 ## Screenshots
-![enter image description here](Image\screenshot.png)
+![Screenshot](https://github.com/mochiron-desu/clock/blob/main/Image/screenshot.png?raw=true)
