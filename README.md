@@ -1,5 +1,5 @@
 # A simple clock
- A simple digital clock 🕐 which displays your local time and date in 3 different colors !
+ A simple digital clock 🕐 which displays your local time and date in 3 different colors ! [[Clock](https://mochiron-desu.github.io/clock/)]
 
 Yep thats it, its just a clock.... I mean you don't have to use it, I just wanted to make something when I was bored.
 
